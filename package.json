@@ -7,9 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest --watch",
+    "lint:fix": "eslint src --fix && yarn format",
+    "lint:strict": "eslint --max-warnings=0 src",
+    "typecheck": "tsc --noEmit --incremental false",
+    "format": "prettier --write .",
+    "format:check": "prettier -c .",
+    "test:watch": "jest --watch",
+    "test": "jest",
     "test:ci": "jest --ci",
-    "format": "yarn prettier --write .",
     "prepare": "husky install"
   },
   "dependencies": {

@@ -1,13 +1,13 @@
+import type { AppProps } from 'next/app';
 import dynamic from 'next/dynamic';
 import { DefaultSeo } from 'next-seo';
 import { ThemeProvider } from 'next-themes';
-import type { AppProps } from 'next/app';
+
+import '@/common/styles/globals.css';
 
 import { firaCode, jakartaSans, soraSans } from '@/common/styles/fonts';
 
 import defaultSEOConfig from '../../next-seo.config';
-
-import '@/common/styles/globals.css';
 
 const ProgressBar = dynamic(() => import('src/common/components/ProgressBar'), {
   ssr: false,
