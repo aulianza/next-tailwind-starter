@@ -10,7 +10,7 @@
     "lint:fix": "eslint src --fix && yarn format",
     "lint:strict": "eslint --max-warnings=0 src",
     "typecheck": "tsc --noEmit --incremental false",
-    "format": "prettier -write .",
+    "format": "prettier --write .",
     "format:check": "prettier -c .",
     "test": "jest --watch",
     "test:ci": "jest --ci",

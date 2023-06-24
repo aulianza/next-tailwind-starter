@@ -39,7 +39,7 @@ This repository is packed with:
 - Snippets — A collection of useful snippets
 - Site Map — Automatically generate sitemap.xml
 - Expansion Pack — Easily install common libraries, additional components, and configs
-  
+
 ## Getting Started
 
 ### 1. Clone this template using one of the three ways:
