@@ -1,17 +1,19 @@
-export const PAGES = [
+import { MenuItemProps } from '../types/menu';
+
+export const PAGES: MenuItemProps[] = [
   {
     title: 'Getting Started',
     description: 'A Step-by-Step guide how to use',
-    route: '/docs',
+    url: '/docs',
   },
   {
     title: 'Components',
     description: 'List of pre-built components',
-    route: '/components',
+    url: '/components',
   },
   {
     title: 'Changelog',
     description: 'View latest project updates',
-    route: 'https://github.com/aulianza/aulianza-next-tailwind-starter',
+    url: 'https://github.com/aulianza/aulianza-next-tailwind-starter',
   },
 ];
