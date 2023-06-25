@@ -51,10 +51,10 @@ const Home: NextPage = () => {
         {PAGES?.map((page, index) => (
           <Link
             key={index}
-            href={page?.route}
+            href={page?.url}
             className='w-full md:w-1/3 group rounded-lg border border-transparent px-5 py-4 hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 hover:scale-[102%] transition-all duration-300'
             rel='noopener noreferrer'
-            target={isExternalLink(page?.route) ? '_blank' : ''}
+            target={isExternalLink(page?.url) ? '_blank' : ''}
           >
             <div>
               <h2 className='mb-3 text-xl font-semibold'>{page?.title}</h2>
