@@ -5,7 +5,8 @@ import { ThemeProvider } from 'next-themes';
 
 import '@/common/styles/globals.css';
 
-import { firaCode, jakartaSans, soraSans } from '@/common/styles/fonts';
+import Layout from '@/common/components/layouts/Layout';
+import { firaCode, jakartaSans } from '@/common/styles/fonts';
 
 import defaultSEOConfig from '../../next-seo.config';
 
@@ -20,7 +21,6 @@ const App = ({ Component, pageProps }: AppProps) => {
         {`
           html {
             --jakartaSans-font: ${jakartaSans.style.fontFamily};
-            --soraSans-font: ${soraSans.style.fontFamily};
             --firaCode-font: ${firaCode.style.fontFamily};
           }
         `}
@@ -28,7 +28,9 @@ const App = ({ Component, pageProps }: AppProps) => {
       <DefaultSeo {...defaultSEOConfig} />
       <ThemeProvider attribute='class' defaultTheme='dark'>
         <ProgressBar />
-        <Component {...pageProps} />;
+        <Layout type='responsive'>
+          <Component {...pageProps} />
+        </Layout>
       </ThemeProvider>
     </>
   );

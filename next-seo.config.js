@@ -27,7 +27,7 @@ const defaultSEOConfig = {
   additionalLinkTags: [
     {
       rel: 'icon',
-      href: 'https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png',
+      href: 'https://nextjs.org/favicon.ico',
     },
   ],
 };
