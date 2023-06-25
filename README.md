@@ -18,9 +18,9 @@
 
 ## Introduction
 
-Presenting an exquisite Next.js framework adorned with the elegance of Typescript and the grace of Tailwind CSS, behold this bespoke template crafted with meticulous attention. Its purpose is to liberate one's mind from the burden of intricate configurations and tedious setups, enabling a seamless transition into the realm of focused development.
+Introducing a simple Next.js with Typescript and Tailwind CSS starter template. This custom-made template has been carefully designed to simplify complex configurations and time-consuming setups, allowing developers (me; especially) to focus on my work effortlessly.
 
-However, should you also discover the inherent value in this sublime creation, you are most welcome to partake in its utilization. Moreover, I wholeheartedly embrace any constructive criticism or suggestions you may have. Feel free to fork or clone this repository and contribute your own exquisite ideas through a Pull Request.
+If you find this amazing creation valuable, you're invited to use it for your own projects. I warmly welcome any helpful feedback or suggestions you may have. You can easily make your own version by copying or downloading this code repository and contribute your own fantastic ideas by submitting a Pull Request.
 
 ## Features
 
