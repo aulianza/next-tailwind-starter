@@ -10,17 +10,13 @@
 </div>
 <br />
 
-<div align="center">
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/aulianza/aulianza-next-tailwind-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/aulianza-next-tailwind-starter)
-
-</div>
 
 ## Introduction
 
 Introducing a simple Next.js with Typescript and Tailwind CSS starter template. This custom-made template has been carefully designed to simplify complex configurations and time-consuming setups, allowing developers (me; especially) to focus on my work effortlessly.
 
 If you find this amazing creation valuable, you're invited to use it for your own projects. I warmly welcome any helpful feedback or suggestions you may have. You can easily make your own version by copying or downloading this code repository and contribute your own fantastic ideas by submitting a Pull Request.
+<br /><br />
 
 ## Features
 
@@ -40,6 +36,8 @@ This repository is packed with:
 - Expansion Pack — Easily install common libraries, additional components, and configs
 - Dark Mode & Light Mode - Switch theme just one click
 
+<br />
+
 ## Getting Started
 
 ### 1. Clone this template using one of the three ways:
@@ -57,9 +55,10 @@ This repository is packed with:
    npx degit aulianza/aulianza-next-tailwind-starter YOUR_APP_NAME
    ```
 
-4. Deploy to Vercel
+4. Deploy to Vercel or Netlify, etc
 
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/aulianza/aulianza-next-tailwind-starter)
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/aulianza-next-tailwind-starter)
 
 ### 2. Install dependencies
 
@@ -86,3 +85,9 @@ There are some things you need to change including title, urls, favicons, etc. D
 ### 5. Commit Message Convention
 
 This starter is using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), it is mandatory to use it to commit changes.
+
+<br />
+
+## License
+
+Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
