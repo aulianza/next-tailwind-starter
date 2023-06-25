@@ -10,7 +10,6 @@
 </div>
 <br />
 
-
 ## Introduction
 
 Introducing a simple Next.js with Typescript and Tailwind CSS starter template. This custom-made template has been carefully designed to simplify complex configurations and time-consuming setups, allowing developers (me; especially) to focus on my work effortlessly.
