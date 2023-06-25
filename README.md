@@ -29,7 +29,7 @@ This repository is packed with:
 - Next.js 13.4
 - React 18
 - TypeScript
-- Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
+- Tailwind CSS 3 — Configured with CSS Variables
 - Jest — Configured for unit testing
 - Absolute Import and Path Alias — Import components using `@/` prefix
 - ESLint — Find and fix problems in your code, also will **auto sort** your imports
@@ -37,8 +37,8 @@ This repository is packed with:
 - Husky & Lint Staged — Run scripts on your staged files before they are committed
 - Conventional Commit Lint — Make sure you & your teammates follow conventional commit
 - Snippets — A collection of useful snippets
-- Site Map — Automatically generate sitemap.xml
 - Expansion Pack — Easily install common libraries, additional components, and configs
+- Dark Mode & Light Mode - Switch theme just one click
 
 ## Getting Started
 
