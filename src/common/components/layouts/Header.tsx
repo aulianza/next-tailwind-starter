@@ -17,7 +17,7 @@ const Header = ({ type }: { type: string }) => {
     <header
       className={clsx(
         'fixed top-0 z-50 w-full bg-white/10 px-0.5 py-1',
-        'backdrop-blur-md dark:bg-gray-700/10',
+        'dark:bg-gray-700/10',
         'shadow-sm'
       )}
     >
