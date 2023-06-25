@@ -1,4 +1,4 @@
-import { MenuItemProps } from '../types/menu';
+import { MenuItemProps } from '@/common/types/menu';
 
 export const PAGES: MenuItemProps[] = [
   {
