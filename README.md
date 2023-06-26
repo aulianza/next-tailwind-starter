@@ -24,15 +24,14 @@ This repository is packed with:
 - 🎉 Next.js 13.4
 - ⚛️ React 18
 - 🔰 TypeScript
-- 💠 Tailwind CSS 3 — Configured with CSS Variables
+- 💠 Tailwind CSS 3
 - 🛢 Jest — Configured for unit testing
 - 🧿 Absolute Import and Path Alias — Import components using `@/` prefix
-- 📏 ESLint — Find and fix problems in your code, also will **auto sort** your imports
+- 📏 ESLint — Find and fix problems in the code, also will **auto sort** the imports
 - ✨ Prettier — Format your code consistently
-- 🐶 Husky & Lint Staged — Run scripts on your staged files before they are committed
+- 🐶 Husky & Lint Staged — Run scripts on your staged files before committed
 - 📌 Conventional Commit Lint — Make sure to follow conventional commit
-- ♻️ Snippets — A collection of useful snippets
-- 🎁 Expansion Pack — Easily install common libraries, additional components, and configs
+- ♻️ Snippets — A collection of most useful snippets
 - 🌚 Dark Mode & Light Mode - Switch theme just one click
 
 <br />
