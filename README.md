@@ -89,4 +89,4 @@ This starter is using [conventional commits](https://www.conventionalcommits.org
 
 ## License
 
-Licensed under the [MIT license](https://github.com/aulianza/aulianza-next-tailwind-starter/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/aulianza/aulianza-next-tailwind-starter/blob/master/LICENSE).
