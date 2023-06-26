@@ -1,6 +1,6 @@
 <div align="center">
   <h1>aulianza-next-tailwind-starter</h1>
-    <p>🔰 Next.js + TS + Tailwind CSS starter template packed with useful development features</p>
+    <p>🔰 Next.js + TS + Tailwind CSS starter template packed with useful features</p>
   <br />
 
   <div>
