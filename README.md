@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>aulianza-next-tailwind-starter</h1>
+  <h1>next-tailwind-starter</h1>
     <p>🔰 Next.js + TS + Tailwind CSS starter template packed with useful features</p>
   <br />
 
   <div>
-    <img width="1011" alt="image" src="https://github.com/aulianza/aulianza-next-tailwind-starter/assets/15605885/b8648391-e700-4103-81e8-72274d77834a">
+    <img width="1011" alt="image" src="https://github.com/aulianza/next-tailwind-starter/assets/15605885/afe3fc57-b548-4eb4-b894-c96d749ab322">
 </div>
 
 </div>
@@ -55,8 +55,8 @@ This repository is packed with:
 
 4. Deploy to Vercel or Netlify, etc
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/aulianza/aulianza-next-tailwind-starter)
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/aulianza-next-tailwind-starter)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/aulianza/next-tailwind-starter)
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/next-tailwind-starter)
 
 ### 2. Install dependencies
 
@@ -88,4 +88,4 @@ This starter is using [conventional commits](https://www.conventionalcommits.org
 
 ## License
 
-Licensed under the [MIT license](https://github.com/aulianza/aulianza-next-tailwind-starter/blob/master/LICENSE).
+Licensed under the [MIT license](https://github.com/aulianza/next-tailwind-starter/blob/master/LICENSE).
