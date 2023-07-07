@@ -44,13 +44,13 @@ This repository is packed with:
 2. Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/aulianza/aulianza-next-tailwind-starter project-name
+   npx create-next-app -e https://github.com/aulianza/next-tailwind-starter project-name
    ```
 
 3. Using `degit`
 
    ```bash
-   npx degit aulianza/aulianza-next-tailwind-starter YOUR_APP_NAME
+   npx degit aulianza/next-tailwind-starter YOUR_APP_NAME
    ```
 
 4. Deploy to Vercel or Netlify, etc
